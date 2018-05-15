@@ -7,7 +7,7 @@ After being introduced to Tkinter, you will be guided step-by-step through the a
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-All code files are placed in their respective folders.
+All code files are placed in their respective folders. The _init_ file would be empty in all the code files which is to be filled by the user as per instructions given in the book.
 
 The code will look like the following:
 ```
