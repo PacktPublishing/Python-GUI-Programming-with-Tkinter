@@ -28,6 +28,12 @@ you are comfortable (we suggest IDLE since it comes with Python and uses Tkinter
 later chapters, you'll need access to the internet so that you can install Python packages and
 the PostgreSQL database.
 
+## Errata
+**Errata Type: Typo**
+* Page number 07 PDF: \
+ _It is:_ The Tk widget library originates from the Tool Command Language (Tcl) programming language. Tcl and Tk were created by John **Ousterman** \
+ _Should be:_ The Tk widget library originates from the Tool Command Language (Tcl) programming language. Tcl and Tk were created by John **Ousterhout**
+
 ## Related Products
 * [Tkinter GUI Application Development Cookbook](https://www.packtpub.com/web-development/tkinter-gui-application-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788622301)
 
