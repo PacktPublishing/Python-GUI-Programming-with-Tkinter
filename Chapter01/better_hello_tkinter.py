@@ -43,7 +43,7 @@ class MyApplication(tk.Tk):
 
         # set the window properties
         self.title("Hello Tkinter")
-        self.geometry("1350x2000")
+        self.geometry("800x600")
         self.resizable(width=False, height=False)
 
         # Define the UI
