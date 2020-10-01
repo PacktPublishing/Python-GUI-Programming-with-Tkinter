@@ -18,7 +18,7 @@ class HelloView(tk.Frame):
         name_entry = ttk.Entry(self, textvariable=self.name)
         ch_button = ttk.Button(self, text="Change", command=self.on_change)
         hello_label = ttk.Label(self, textvariable=self.hello_string,
-            font=("TkDefaultFont", 64), wraplength=600)
+            font=("TkDefaultFont", 30), wraplength=1000)
 
         # Layout form
         name_label.grid(row=0, column=0, sticky=tk.W)
@@ -43,7 +43,7 @@ class MyApplication(tk.Tk):
 
         # set the window properties
         self.title("Hello Tkinter")
-        self.geometry("800x600")
+        self.geometry("1350x2000")
         self.resizable(width=False, height=False)
 
         # Define the UI
