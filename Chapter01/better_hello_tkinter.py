@@ -43,7 +43,7 @@ class MyApplication(tk.Tk):
 
         # set the window properties
         self.title("Hello Tkinter")
-        self.geometry("800x600")
+        self.geometry("1350x2000")"""increasing the geometry size because when the length of the input string is too long, it is unable to adjust itself into the application"""
         self.resizable(width=False, height=False)
 
         # Define the UI
