@@ -1,10 +1,10 @@
 # Python GUI programming with Tkinter
 This is the code repository for [Python GUI programming with Tkinter](https://www.packtpub.com/application-development/python-gui-programming-tkinter?utm_source=github&utm_medium=repository&utm_campaign=9781788835886), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
-## About the Book
+## About the Book of tkinter 
 Tkinter is a lightweight, portable, and easy-to-use graphical toolkit available in the Python Standard Library, widely used to build Python GUIs due to its simplicity and availability. This book teaches you to design and build graphical user interfaces that are functional, appealing, and user-friendly using the powerful combination of Python and Tkinter.
 
-After being introduced to Tkinter, you will be guided step-by-step through the application development process. Over the course of the book, your application will evolve from a simple data-entry form to a complex data management and visualization tool while maintaining a clean and robust design. In addition to building the GUI, you'll learn how to connect to external databases and network resources, test your code to avoid errors, and maximize performance using asynchronous programming. You'll make the most of Tkinter's cross-platform availability by learning how to maintain compatibility, mimic platform-native look and feel, and build executables for deployment across popular computing platforms.
-## Instructions and Navigation
+After being introduced to Tkinter, you will be guided step-by-step through the application development process. Over the course of the book, your application will evolve from a simple data-entry form to a complex data management and visualization tool while maintaining a clean and robust design. In addition to building the GUI, you'll learn how to connect to external databases and network resources, test your code to avoid errors, and maximize performance using asynchronous programming. You'll make the most of Tkinter's cross-platform availability by learning how to maintain compatibility, mimic platform-native look and feel, and build executables for deployment Done across popular computing platforms.
+## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 All code files are placed in their respective folders. The _init_ file would be empty in all the code files which is to be filled by the user as per instructions given in the book.
